@@ -1,7 +1,10 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg">
 
 # HacktoberFest Repository 2022 (🌟 Star this repository!🌟)
-This is a Hacktoberfest-Repository,feel free to make your conttributions here this month to win your swagss!!Happy Coding! :)
+This is a Hacktoberfest-Repository,feel free to make your conttributions here this month to win your swagss!!Happy Coding! :)  
+
+HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—IT’S ALMOST TIME TO HACK OUT FOUR PRISTINE PULL/MERGE REQUESTS AND COMPLETE YOUR MISSION FOR OPEN SOURCE. JOIN OTHER MEMBERS OF THE OPEN-SOURCE COMMUNITY ON THE HACKTOBERFEST DISCORD.-Organisers 
+Use: <a href="https://discord.gg/hacktoberfest"</a>
 
 ## 💡 What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
