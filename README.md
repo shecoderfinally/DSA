@@ -1,4 +1,4 @@
-<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg">
 
 # HacktoberFest Repository (🌟 Star this repository!🌟)
 This is a Hacktoberfest-Repository,feel free to make your conttributions here this month to win your swagss!!Happy Coding! :)
